@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 2.8)
+project( EyeSense )
+find_package( OpenCV REQUIRED )
+include_directories( ${OpenCV_INCLUDE_DIRS} )
+add_executable( EyeSense EyeSense.cpp )
+target_link_libraries( EyeSense ${OpenCV_LIBS} )
