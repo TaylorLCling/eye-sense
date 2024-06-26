@@ -31,7 +31,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/taylorlcling/EyeSense">
+  <a href="https://github.com/taylorlcling/eye-sense">
     <img src="EyeSenseLOGO.jpeg" alt="Logo" width="80" height="80">
   </a>
 
@@ -40,14 +40,14 @@
   <p align="center">
     Computer Vision Demo adding a light-weight adding an LLM with AreYouThere, to describe a that which is on the screen.
     <br />
-    <a href="https://github.com/taylorlcling/EyeSense"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/taylorlcling/eye-sense"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/taylorlcling/EyeSense">View Demo</a>
+    <a href="https://github.com/taylorlcling/eye-sense">View Demo</a>
     ·
-    <a href="https://github.com/taylorlcling/EyeSense/issues">Report Bug</a>
+    <a href="https://github.com/taylorlcling/eye-sense/issues">Report Bug</a>
     ·
-    <a href="https://github.com/taylorlcling/EyeSense/issues">Request Feature</a>
+    <a href="https://github.com/taylorlcling/eye-sense/issues">Request Feature</a>
   </p>
 </div>
 
@@ -112,7 +112,7 @@ Simple Mulitimodal LLM using Webcam using C++ and OpenCV
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/taylorlcling/EyeSense.git
+   git clone https://github.com/taylorlcling/eye-sense.git
    ```
 2. Generate Build Files using cmake
    ```sh
@@ -153,7 +153,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-See the [LICENSE](https://github.com/taylorlcling/EyeSense/blob/master/LICENSE.txt) file.
+See the [LICENSE](https://github.com/taylorlcling/eye-sense/blob/master/LICENSE.txt) file.
 
 README [Template](https://github.com/othneildrew/Best-README-Template)
 
@@ -162,7 +162,7 @@ README [Template](https://github.com/othneildrew/Best-README-Template)
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/taylorlcling/EyeSense](https://github.com/taylorlcling/EyeSense)
+Project Link: [https://github.com/taylorlcling/eye-sense](https://github.com/taylorlcling/eye-sense)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -171,16 +171,16 @@ Project Link: [https://github.com/taylorlcling/EyeSense](https://github.com/tayl
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/taylorlcling/EyeSense.svg?style=for-the-badge
-[contributors-url]: https://github.com/taylorlcling/EyeSense/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/taylorlcling/EyeSense.svg?style=for-the-badge
-[forks-url]: https://github.com/taylorlcling/EyeSense/network/members
-[stars-shield]: https://img.shields.io/github/stars/taylorlcling/EyeSense.svg?style=for-the-badge
-[stars-url]: https://github.com/taylorlcling/EyeSense/stargazers
-[issues-shield]: https://img.shields.io/github/issues/taylorlcling/EyeSense.svg?style=for-the-badge
-[issues-url]: https://github.com/taylorlcling/EyeSense/issues
-[license-shield]: https://img.shields.io/github/license/taylorlcling/EyeSense.svg?style=for-the-badge
-[license-url]: https://github.com/taylorlcling/EyeSense/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/taylorlcling/eye-sense.svg?style=for-the-badge
+[contributors-url]: https://github.com/taylorlcling/eye-sense/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/taylorlcling/eye-sense.svg?style=for-the-badge
+[forks-url]: https://github.com/taylorlcling/eye-sense/network/members
+[stars-shield]: https://img.shields.io/github/stars/taylorlcling/eye-sense.svg?style=for-the-badge
+[stars-url]: https://github.com/taylorlcling/eye-sense/stargazers
+[issues-shield]: https://img.shields.io/github/issues/taylorlcling/eye-sense.svg?style=for-the-badge
+[issues-url]: https://github.com/taylorlcling/eye-sense/issues
+[license-shield]: https://img.shields.io/github/license/taylorlcling/eye-sense.svg?style=for-the-badge
+[license-url]: https://github.com/taylorlcling/eye-sense/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/TaylorLCling
 [product-screenshot]: images/screenshot.png
