@@ -38,7 +38,7 @@
 <h3 align="center">EyeSense</h3>
 
   <p align="center">
-    Computer Vision Demo adding a light-weight adding an LLM with [AreYouThere](https://github.com/taylorlcling/AreYouThere), to describe a that which is on the screen.
+    Computer Vision Demo adding a light-weight adding an LLM with AreYouThere, to describe a that which is on the screen.
     <br />
     <a href="https://github.com/taylorlcling/EyeSense"><strong>Explore the docs »</strong></a>
     <br />
