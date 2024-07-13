@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <!-- Dark background for a sleeker look -->
+  <rect x="0" y="0" width="800" height="600" fill="#2c3e50"/>
+  
+  <!-- Webcam feed area (larger and central) -->
+  <rect x="20" y="60" width="560" height="420" fill="#34495e" stroke="#3498db" stroke-width="2"/>
+  <text x="250" y="280" font-family="Arial, sans-serif" font-size="14" fill="#ecf0f1">Webcam Feed</text>
+  
+  <!-- Analysis output area (right side) -->
+  <rect x="600" y="60" width="180" height="420" fill="#34495e" stroke="#3498db" stroke-width="2"/>
+  <text x="650" y="80" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#ecf0f1">Analysis</text>
+  <rect x="610" y="90" width="160" height="380" fill="#2c3e50" stroke="#34495e" stroke-width="1"/>
+  
+  <!-- Title bar (simplified) -->
+  <rect x="0" y="0" width="800" height="40" fill="#3498db"/>
+  <text x="20" y="25" font-family="Arial, sans-serif" font-size="18" fill="#ecf0f1">EyeSense</text>
+  
+  <!-- Mode switch (new feature) -->
+  <rect x="680" y="5" width="100" height="30" rx="15" ry="15" fill="#2ecc71"/>
+  <circle cx="695" cy="20" r="10" fill="#ecf0f1"/> <!-- Switch indicator -->
+  <text x="715" y="25" font-family="Arial, sans-serif" font-size="12" fill="#ecf0f1">Continuous</text>
+  
+  <!-- Control panel (bottom, more compact) -->
+  <rect x="20" y="500" width="760" height="80" fill="#34495e" stroke="#3498db" stroke-width="2"/>
+  
+  <!-- Start/Stop button -->
+  <rect x="40" y="520" width="100" height="40" rx="5" ry="5" fill="#e74c3c"/>
+  <text x="65" y="545" font-family="Arial, sans-serif" font-size="14" fill="#ecf0f1">Start/Stop</text>
+  
+  <!-- Capture button (for single-shot mode) -->
+  <rect x="160" y="520" width="100" height="40" rx="5" ry="5" fill="#f39c12"/>
+  <text x="185" y="545" font-family="Arial, sans-serif" font-size="14" fill="#ecf0f1">Capture</text>
+  
+  <!-- Save button -->
+  <rect x="280" y="520" width="100" height="40" rx="5" ry="5" fill="#3498db"/>
+  <text x="315" y="545" font-family="Arial, sans-serif" font-size="14" fill="#ecf0f1">Save</text>
+  
+  <!-- Settings button -->
+  <rect x="400" y="520" width="100" height="40" rx="5" ry="5" fill="#9b59b6"/>
+  <text x="423" y="545" font-family="Arial, sans-serif" font-size="14" fill="#ecf0f1">Settings</text>
+</svg>
